@@ -15,7 +15,7 @@ See if there is a correlation between the number and type of restaurants and obe
 
 ## Process
 
-Data collection utilizing Census.gov 
+Data collection utilizing Census.gov and NAICS.com
 ![Screenshot](Screenshots/fig3.JPG "Screenshot")
 
 
