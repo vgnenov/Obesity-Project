@@ -1,4 +1,5 @@
-# The-Mockingbirds
+# Obesity and Possible Links
+
 Project 1 in Data Science Bootcamp
 Project Proposal
 Project Title: Correlation of Obesity and Food Options by City Population
@@ -13,7 +14,4 @@ Research Questions to Answer:
   4. Is there a particular correlation between cuisine/type of restaurant and obesity
   5. Is there a correlation between economic status and cuisine? 
 
-Datasets to Be Used: https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/
-https://mn.gov/deed/newscenter/publications/review/august-2019/locations-restaurants.jsp
 
-Rough Breakdown of Tasks-Research-Coding-Data cleaning and Presentation: We will divide our forces equally during this project.
