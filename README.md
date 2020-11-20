@@ -1,8 +1,8 @@
 # Obesity and Possible Links
 
-Project 1 in Data Science Bootcamp
-Project Proposal
-Project Title: Correlation of Obesity and Food Options by City Population
+![Screenshot](Screenshots/fig1.jpg "Screenshot")
+
+## Purpose 
 
 Team Members: Liliana Ilut, Vasil Nenov, Quentin Sloboda 
 
