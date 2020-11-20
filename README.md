@@ -3,7 +3,7 @@
 ![Screenshot](Screenshots/fig1.jpg "Screenshot")
 
 ## Purpose 
-Explore the datasets and see if there is a correlation between the number and type of restaurants and obesity rate in the top 300 cities by population
+See if there is a correlation between the number and type of restaurants and obesity rate in the top 300 cities by population
  
  - Additonal questions to address
     - Does the amount of restaurants in a city equal a higher obesity rate
