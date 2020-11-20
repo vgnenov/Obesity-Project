@@ -15,6 +15,8 @@ See if there is a correlation between the number and type of restaurants and obe
 
 ## Process
 
+Data Collection and Cleaning. Utilized Cencus.gov for the data collection.
+![Screenshot](Screenshots/fig2.JPG "Screenshot")
 
 
 
