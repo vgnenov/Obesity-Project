@@ -38,7 +38,7 @@ See if there is a correlation between the number and type of restaurants and obe
 
 
 
-#### Contributors
+## Contributors
 - Quentin Sloboda - https://github.com/qwsloboda
 - Liliana Ilut - https://github.com/liliana-ilut
 
