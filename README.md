@@ -18,7 +18,8 @@ See if there is a correlation between the number and type of restaurants and obe
 Data collection utilizing Census.gov and NAICS.com
 ![Screenshot](Screenshots/fig3.JPG "Screenshot")
 
-
+Cleaning data in Jupyter Lab utilizing Pandas
+![Screenshot](Screenshots/fig5.JPG "Screenshot")
 
 
 
