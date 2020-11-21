@@ -30,6 +30,9 @@ See if there is a correlation between the number and type of restaurants and obe
  ![Screenshot](Screenshots/fig9.JPG "Screenshot")
  ![Screenshot](Screenshots/fig10.JPG "Screenshot")
 
+ # Conclusion (Condensed)
+ No links were found between the number and type of restaurants in a given geographic area and obesity rates
+
 
 
 
