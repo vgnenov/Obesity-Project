@@ -21,8 +21,8 @@ Data collection utilizing Census.gov and NAICS.com
 Cleaning data in Jupyter Lab utilizing Pandas
 ![Screenshot](Screenshots/fig5.JPG "Screenshot")
 
-
-
+Finalzing data clean up 
+![Screenshot](Screenshots/fig6.JPG "Screenshot")
 
 
   Team Members: Liliana Ilut, Vasil Nenov, Quentin Sloboda 
