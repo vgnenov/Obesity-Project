@@ -38,10 +38,9 @@ See if there is a correlation between the number and type of restaurants and obe
 
 
 
+#### Contributors
+- Quentin Sloboda - https://github.com/qwsloboda
+- Liliana Ilut - https://github.com/liliana-ilut
 
-
-
-#### Team Members: Liliana Ilut, Vasil Nenov, Quentin Sloboda 
-https://github.com/liliana-ilut/The-Mockingbirds
 
 
