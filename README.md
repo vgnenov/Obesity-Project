@@ -28,7 +28,7 @@ See if there is a correlation between the number and type of restaurants and obe
  ![Screenshot](Screenshots/fig7.JPG "Screenshot")
  ![Screenshot](Screenshots/fig8.JPG "Screenshot")
  ![Screenshot](Screenshots/fig9.JPG "Screenshot")
- 
+ ![Screenshot](Screenshots/fig10.JPG "Screenshot")
 
 
 
