@@ -41,6 +41,6 @@ See if there is a correlation between the number and type of restaurants and obe
 
 
 
-  Team Members: Liliana Ilut, Vasil Nenov, Quentin Sloboda 
+#### Team Members: Liliana Ilut, Vasil Nenov, Quentin Sloboda 
 
 
