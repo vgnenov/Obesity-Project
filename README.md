@@ -13,7 +13,7 @@ See if there is a correlation between the number and type of restaurants and obe
     - Is there a correlation between economic status and cuisine 
 
 
-## Process
+## Process and Results
 
 ### Data collection utilizing Census.gov and NAICS.com
  ![Screenshot](Screenshots/fig3.JPG "Screenshot")
@@ -23,6 +23,12 @@ See if there is a correlation between the number and type of restaurants and obe
 
 ### Finalizing data clean up 
  ![Screenshot](Screenshots/fig6.JPG "Screenshot")
+
+### Plotting data after data clean up
+ ![Screenshot](Screenshots/fig7.JPG "Screenshot")
+ 
+
+
 
 
 
